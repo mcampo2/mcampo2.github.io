@@ -1,6 +1,3 @@
----
-site.title: mcampo2
----
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mcampo2/mcampo2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
